@@ -8,11 +8,17 @@
 ##### A. download and install the application.
 1. make sure you have installed nodejs with npm, [here](https://nodejs.org/en/download/ "here") is the download link.
 2. on terminal run the following command to download the application :
-```git clone https://github.com/m0x31h0x64i/chat-app
+```bash
+git clone https://github.com/m0x31h0x64i/chat-app
+```
 3. then :
-```cd chat-app && npm i
+```bash
+cd chat-app && npm i
+```
 4. then run application with :
-```npm run dev
+```bash
+npm run dev
+```
 ##### B. try demo to run the application. (https://calm-puce-harp-seal-kilt.cyclic.app)
 
 ------------
