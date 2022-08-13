@@ -1,12 +1,16 @@
-## Node.js Real-Time Web Chat Application
+![javascript](https://badges.aleen42.com/src/javascript.svg)
+![Nodejs](https://img.shields.io/badge/-Node.js-58595a?style=flat&logo=Node.js)
+![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 
-------------
+
+## Node.js Real-Time Web Chat Application
 
 ###  How to run this Application ?
 - there are two ways to do that :
 
 ##### A. download and install the application.
-1. make sure you have installed nodejs with npm, [here](https://nodejs.org/en/download/ "here") is the download link.
+1. make sure you have installed nodejs with npm, [here](https://nodejs.org/en/download) is the download link.
 2. on terminal run the following command to download the application :
 ```bash
 git clone https://github.com/m0x31h0x64i/chat-app
@@ -24,7 +28,7 @@ npm run dev
 ------------
 
 ### How to use this Application ?
-If you prefer to run the program locally, open this <a href="https://localhost:3000" target="_blank">this</a> link. Otherwise, you can use demo at <a href="https://calm-puce-harp-seal-kilt.cyclic.app" target="_blank">this</a> link.
+If you prefer to run the program locally, open this [this](http://localhost:3000) link. Otherwise, you can use demo at [this](https://calm-puce-harp-seal-kilt.cyclic.app) link.
 
 ------------
 
