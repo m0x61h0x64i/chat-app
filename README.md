@@ -23,12 +23,12 @@ cd chat-app && npm i
 ```bash
 npm run dev
 ```
-##### B. try demo to run the application. (https://calm-puce-harp-seal-kilt.cyclic.app)
+##### B. try demo to run the application. (https://key4897942.herokuapp.com)
 
 ------------
 
 ### How to use this Application ?
-If you prefer to run the program locally, open this [this](http://localhost:3000) link. Otherwise, you can use demo at [this](https://calm-puce-harp-seal-kilt.cyclic.app) link.
+If you prefer to run the program locally, open [this](http://localhost:3000) link. Otherwise, you can use demo at [this](https://key4897942.herokuapp.com) link.
 
 ------------
 
